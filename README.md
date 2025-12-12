@@ -1,4 +1,4 @@
-# Hi there, I'm Minh Phan! 👋
+![Header](./github-header-banner.png)
 
 ### AI/ML Engineer | Finance & Business Analytics Background
 
