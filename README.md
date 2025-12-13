@@ -1,4 +1,4 @@
-![Header](./github-header-banner(1).png)
+![Header](./github-header-banner.png)
 
 ### AI/ML Engineer | Finance & Business Analytics Background
 
