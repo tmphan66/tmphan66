@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 
-### Data & Analytics Engineer | Applied AI & Finance Background
+### Data Engineer | Applied AI & Finance Background
 
 I am an IT graduate specializing in **Applied AI** and **Data Engineering** with a foundational background in **Corporate Finance**. I bridge the gap between complex data infrastructure and business strategy by building scalable data pipelines, lakehouse architectures, and cloud-native workflows on AWS and Databricks.
 
