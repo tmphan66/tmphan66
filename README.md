@@ -9,15 +9,15 @@ I am an IT graduate specializing in **Applied AI** and **Data Engineering** with
 ### 🧐 Who am I?
 * 🎓 **Education:** MIT (Applied AI) & BCom (Finance & Business Analytics) from Macquarie University.
 * 💼 **Experience:** Former Data Science Intern at **Truuth**, maintaining AWS S3/Lambda ingestion pipelines and optimizing R&D data workflows.
-* 🚀 **Passion:** Designing resilient ETL/ELT pipelines, implementing Medallion Architectures, and integrating Generative AI/RAG into production data workflows[cite: 2].
-* 🧠 **Focus:** Combining business acumen with modern data stack engineering (Databricks, PySpark, SQL, dbt, Power BI) to drive reliable data processing and analytics[cite: 2].
+* 🚀 **Passion:** Designing resilient ETL/ELT pipelines, implementing Medallion Architectures, and integrating Generative AI/RAG into production data workflows.
+* 🧠 **Focus:** Combining business acumen with modern data stack engineering (Databricks, PySpark, SQL, dbt, Power BI) to drive reliable data processing and analytics.
 
 ---
 
 ### 🔭 What I'm Currently Working On
-* ⚡ **Data Ingestion & Pipelines:** Building scalable ETL/ELT pipelines using **PySpark** and **AWS/Azure**[cite: 2].
-* 🧱 **Lakehouse Architecture:** Implementing Medallion Architectures and analytics modeling using **Databricks**, **SQL**, and **dbt**[cite: 2].
-* 🤖 **AI-Driven Data Systems:** Developing context-aware RAG workflows and optimizing LLM evaluation frameworks on AWS Bedrock[cite: 2].
+* ⚡ **Data Ingestion & Pipelines:** Building scalable ETL/ELT pipelines using **PySpark** and **AWS/Azure**.
+* 🧱 **Lakehouse Architecture:** Implementing Medallion Architectures and analytics modeling using **Databricks**, **SQL**, and **dbt**.
+* 🤖 **AI-Driven Data Systems:** Developing context-aware RAG workflows and optimizing LLM evaluation frameworks on AWS Bedrock.
 
 ---
 
@@ -46,17 +46,17 @@ I am an IT graduate specializing in **Applied AI** and **Data Engineering** with
 ---
 
 ### 🏆 Key Honors & Certifications
-* 🥇 **1st Place Winner:** MQ Cybersecurity Hub x Apate.ai Hackathon 2025[cite: 2].
-* 🏅 **Multi-Unit Highest Achiever:** COMP8450 (Deep Learning), COMP8460 (AI for NLP), COMP6150 (Database Design), BUSA3020 (Advanced Analytics)[cite: 2].
-* 📜 **Databricks Certified:** Databricks Fundamentals, AI Agent Fundamentals, Generative AI Fundamentals[cite: 2].
-* 📜 **HackerRank:** SQL (Advanced)[cite: 2].
+* 🥇 **1st Place Winner:** [MQ Cybersecurity Hub x Apate.ai Hackathon 2025](https://www.linkedin.com/feed/update/urn:li:ugcPost:7404336622382518272/).
+* 🏅 **Multi-Unit Highest Achiever:** COMP8450 (Deep Learning), COMP8460 (AI for NLP), COMP6150 (Database Design), BUSA3020 (Advanced Analytics).
+* 📜 **Databricks Certified:** Databricks Fundamentals, AI Agent Fundamentals, Generative AI Fundamentals.
+* 📜 **HackerRank:** SQL (Advanced).
 
 ---
 
 ### 📫 How to Reach Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/minhphan66](https://www.linkedin.com/in/minhphan66/)[cite: 2]
-* 📧 **Email:** [tmphan66@gmail.com](mailto:tmphan66@gmail.com)[cite: 2]
+* 💼 **LinkedIn:** [linkedin.com/in/minhphan66](https://www.linkedin.com/in/minhphan66/).
+* 📧 **Email:** [tmphan66@gmail.com](mailto:tmphan66@gmail.com).
 
 ---
 <p align="center">
