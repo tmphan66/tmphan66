@@ -20,9 +20,8 @@ I'm an IT graduate specializing in **Applied AI** and **Data Engineering**. I bu
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
-![LoRA/PEFT](https://img.shields.io/badge/LoRA%2FPEFT-8A2BE2?style=for-the-badge)
+![Unsloth](https://img.shields.io/badge/Unsloth-8A2BE2?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge)
@@ -37,18 +36,8 @@ I'm an IT graduate specializing in **Applied AI** and **Data Engineering**. I bu
 ![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-556B2F?style=for-the-badge)
 ![Data Modelling](https://img.shields.io/badge/Data_Modelling-708090?style=for-the-badge)
 
-**Cloud (AWS)**
+**Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-01A88D?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Bedrock](https://img.shields.io/badge/Bedrock-01A88D?style=for-the-badge)
-![Glue](https://img.shields.io/badge/Glue-FF9900?style=for-the-badge)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Athena](https://img.shields.io/badge/Athena-FF9900?style=for-the-badge)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge)
 
 **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
