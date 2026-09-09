@@ -19,13 +19,10 @@ I'm an AI & Data Engineer graduate. I build scalable ETL/ELT pipelines, lakehous
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 ![Unsloth](https://img.shields.io/badge/Unsloth-8A2BE2?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-2E8B57?style=for-the-badge)
 
 **Data Engineering**
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
@@ -33,8 +30,6 @@ I'm an AI & Data Engineer graduate. I build scalable ETL/ELT pipelines, lakehous
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-556B2F?style=for-the-badge)
-![Data Modelling](https://img.shields.io/badge/Data_Modelling-708090?style=for-the-badge)
 
 **Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -53,4 +48,5 @@ I'm an AI & Data Engineer graduate. I build scalable ETL/ELT pipelines, lakehous
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/minhphan66/) · [Email](mailto:tmphan66@gmail.com)
+- **LinkedIn:** [linkedin.com/in/minhphan66](https://www.linkedin.com/in/minhphan66/)
+- **Email:** [tmphan66@gmail.com](mailto:tmphan66@gmail.com)
