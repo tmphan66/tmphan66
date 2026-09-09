@@ -2,7 +2,7 @@
 
 ### Data & AI Engineer
 
-I'm an IT graduate specializing in **Applied AI** and **Data Engineering**. I build scalable ETL/ELT pipelines, lakehouse architectures, and cloud-native workflows on AWS and Databricks — most recently designing a Bedrock-based multimodal fraud detection pipeline during my internship at **Truuth**, and building RAG/agentic AI systems in my own projects. 1st place winner, [MQ Cybersecurity Hub x Apate.ai Hackathon 2025](https://www.linkedin.com/feed/update/urn:li:ugcPost:7404336622382518272/).
+I'm an AI & Data Engineer graduate. I build scalable ETL/ELT pipelines, lakehouse architectures, and cloud-native workflows on AWS and Databricks — most recently designing a Bedrock-based multimodal fraud detection pipeline during my internship at **Truuth**, and building RAG/agentic AI systems in my own projects. 1st place winner, [MQ Cybersecurity Hub x Apate.ai Hackathon 2025](https://www.linkedin.com/feed/update/urn:li:ugcPost:7404336622382518272/).
 
 ---
 
